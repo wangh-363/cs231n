@@ -9,7 +9,7 @@ I watched the video lectures for <a href = "https://www.youtube.com/playlist?lis
 3. [Assignment#2](README.md#Assignment#2)
 
 ## Assignment#1 <a href = "https://cs231n.github.io/assignments2020/assignment1/">  </a>
-- [Q1](Assignment#1/knn): k-Nearest Neighbor classifier
+- [Q1](Assignment#1/knn.ipynb): k-Nearest Neighbor classifier
 - Q2: Training a Support Vector Machine
 - Q3: Implement a Softmax classifier
 - Q4: Two-Layer Neural Network
