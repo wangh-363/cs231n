@@ -3,13 +3,13 @@ Completed Assignment for <a href = "https://cs231n.github.io/" > CS231n: Convolu
 
 I watched the video lectures for <a href = "https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk" > Spring 2017 and did the the relavant assignment posted <a href = "https://cs231n.github.io/" > online </a>. This repo contains my solutions to the assignments. It's a great lecture and thanks for Standford and Fei-fei Li's lab for sharing the information.
 
-## Assignment#1 <a href = "https://cs231n.github.io/assignments2020/assignment1/">  </a>
-- [Q1](../../Assignment#1/knn.ipynb): k-Nearest Neighbor classifier
+## Assignment#1
+- [Q1](#assignment-1/knn.ipynb): k-Nearest Neighbor classifier
 - Q2: Training a Support Vector Machine
 - Q3: Implement a Softmax classifier
 - Q4: Two-Layer Neural Network
 - Q5: Higher Level Representations: Image Features
-## Assignment#2 <a href = "https://cs231n.github.io/assignments2020/assignment2/">  </a>
+## Assignment#2
 - Q1: Fully-connected Neural Network
 - Q2: Batch Normalization
 - Q3: Dropout
